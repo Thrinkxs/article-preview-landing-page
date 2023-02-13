@@ -1,0 +1,91 @@
+.container {
+  width: 375px;
+  border: 5px solid red;
+  padding-top: 40px;
+  padding-left: 70px;
+  padding-bottom: 40px;
+  background-color: hsl(210, 46%, 95%);
+}
+
+.drawer .draw {
+  width: 300px;
+  margin-top: 20px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.desc {
+  width: 300px;
+  background-color: white;
+  color: hsl(212, 23%, 69%);
+  padding-top: 35px;
+  margin-top: -15px;
+  padding-bottom: 0px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.description {
+  font-weight: bold;
+  color: hsl(214, 17%, 51%);
+  padding-left: 25px;
+  padding-right: 15px;
+}
+
+.word {
+  padding-left: 25px;
+  padding-right: 15px;
+}
+.michelle {
+  border-radius: 50%;
+  width: 30px;
+  padding: 10px 28px;
+  display: inline;
+  margin-bottom: -10px;
+}
+.name {
+  padding-left: 5px;
+  font-weight: 500;
+  color: black;
+  vertical-align: 16px;
+  margin-left: -20px;
+}
+.date {
+  margin-left: -122px;
+  vertical-align: -10px;
+}
+
+.share {
+  border: 1px solid grey;
+  border-radius: 100px;
+  padding: 5px;
+  margin-left: -100px;
+  background-color: hsl(210, 46%, 95%);
+  cursor: pointer;
+}
+#btn-id {
+  border-radius: 50px;
+  padding: 10px auto;
+  float: right;
+  margin: 10px;
+  cursor: pointer;
+}
+#send {
+  background-color: hsl(214, 17%, 51%);
+  padding: 15px;
+  display: none;
+}
+#share-btn {
+  vertical-align: 3px;
+  margin-left: 25px;
+}
+
+.socials {
+  margin-left: 20px;
+}
+.arrow {
+  background-color: red;
+  fill: white;
+  margin-left: 40px;
+  border-radius: 50%;
+  padding: 8px;
+  vertical-align: -5px;
+}
